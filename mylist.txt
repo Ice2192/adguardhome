@@ -1,15 +1,17 @@
 ||ad.doubleclick.net^$important
 ||adservice.google.com^$important
 ||analytics.twitter.com^$important
+||api.onesignal.com^$important
 ||app.adjust.com^$important
-||appsflyer.com^$important
 ||app.appsflyer.com^$important
 ||app.usercentrics.eu^$important
+||appsflyer.com^$important
 ||bcp.crwdcntrl.net^$important
 ||bnc.lt^$important
 ||capi.connatix.com^$important
 ||cd.connatix.com^$important
 ||cdn.dynamicyield.com^$important
+||cdn.onesignal.com^$important
 ||cdn.privacy-mgmt.com^$important
 ||click.linksynergy.com^$important
 ||click.mailchimp.com^$important
@@ -42,6 +44,7 @@
 ||snap.licdn.com^$important
 ||ssl.p.jwpcdn.com^$important
 ||st.dynamicyield.com^$important
+||static.klaviyo.com^$important
 ||static.klaviyo.com^$important
 ||sync-tm.everesttech.net^$important
 ||t.pepperjamnetwork.com^$important
