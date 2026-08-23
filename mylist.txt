@@ -26,14 +26,17 @@
 ||i.instagram.com^$important
 ||ngfts.lge.com^$important
 ||prf.hn^$important
+||prf.hn^$important
 ||privacyportal.onetrust.com^$important
 ||qevents.quora.com^$important
 ||quantcast.com^$important
+||redirect.viglink.com^$important
 ||redirector.googlevideo.com^$important
 ||redirector.skimresources.com^$important
 ||rudderstack.com^$important
 ||s.youtube.com^$important
 ||sdk.privacy-center.org^$important
+||shareasale.com^$important
 ||siftscience.com^$important
 ||snap.licdn.com^$important
 ||ssl.p.jwpcdn.com^$important
