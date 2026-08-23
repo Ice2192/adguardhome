@@ -3,6 +3,7 @@
 ||analytics.twitter.com^$important
 ||app.adjust.com^$important
 ||app.appsflyer.com^$important
+||app.usercentrics.eu^$important
 ||bcp.crwdcntrl.net^$important
 ||bnc.lt^$important
 ||capi.connatix.com^$important
