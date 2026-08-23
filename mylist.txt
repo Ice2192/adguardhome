@@ -2,6 +2,7 @@
 ||adservice.google.com^$important
 ||analytics.twitter.com^$important
 ||app.adjust.com^$important
+||appsflyer.com^$important
 ||app.appsflyer.com^$important
 ||app.usercentrics.eu^$important
 ||bcp.crwdcntrl.net^$important
