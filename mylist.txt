@@ -37,7 +37,9 @@
 ||redirector.googlevideo.com^$important
 ||redirector.skimresources.com^$important
 ||rudderstack.com^$important
-||s.youtube.com^$important
+# I comment this out because youtube history doesn't get saved
+# on mobile devices when this is enabled
+#||s.youtube.com^$important
 ||sdk.privacy-center.org^$important
 ||shareasale.com^$important
 ||siftscience.com^$important
