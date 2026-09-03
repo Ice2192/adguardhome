@@ -1,9 +1,7 @@
 # I comment this out because youtube history doesn't get saved
 # on mobile devices when this is enabled
 #||s.youtube.com^$important
-|| adblock.turtlecute.org##.adbox.banner_ads.adsbox ^$important
 ||ad.doubleclick.net^$important
-||adblock.turtlecute.org##.textads^$important
 ||adservice.google.com^$important
 ||analytics.twitter.com^$important
 ||api.onesignal.com^$important
