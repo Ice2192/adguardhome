@@ -1,6 +1,8 @@
 # I comment this out because youtube history doesn't get saved
 # on mobile devices when this is enabled
 #||s.youtube.com^$important
+|| fw.adsafeprotected.com^$important
+|| pixel.adsafeprotected.com^$important
 ||ad.doubleclick.net^$important
 ||adservice.google.com^$important
 ||analytics.twitter.com^$important
@@ -46,6 +48,7 @@
 ||snap.licdn.com^$important
 ||ssl.p.jwpcdn.com^$important
 ||st.dynamicyield.com^$important
+||static.adsafeprotected.com ^$important
 ||static.klaviyo.com^$important
 ||static.klaviyo.com^$important
 ||sync-tm.everesttech.net^$important
